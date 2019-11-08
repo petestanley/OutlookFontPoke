@@ -9,7 +9,7 @@ Usage:
 1. Add this script into Jamf Pro
 2. Create a new policy including the script.
 3. Set Parameter 4 to your desired font, e.g. 'Helvetica' (Without quotes)
-3. Set Parameter 5 to your desired font size, e.g. '1.0pt' (Without quotes)
+3. Set Parameter 5 to your desired font size, e.g. '11.0pt' (Without quotes)
 3. Set Parameter 6 to your desired font color, e.g. 'black' (Without quotes)
 
 
