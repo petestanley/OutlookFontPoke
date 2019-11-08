@@ -1,4 +1,4 @@
-# OutlookFontPoke For Jamf
+# OutlookFontPoke For Jamf Pro
 All thanks goes to pbowden-msft/OutlookFontPoke for their fantastic script. This is a minor tweak that sets up parameters for use with Jamf Pro
 
 <b>Microsoft Outlook 365/2019/2016 for Mac Default Font Changer</b>
