@@ -1,8 +1,17 @@
-# OutlookFontPoke
+# OutlookFontPoke For Jamf
+All thanks goes to pbowden-msft/OutlookFontPoke for their fantastic script. This is a minor tweak that sets up parameters for use with Jamf Pro
+
 <b>Microsoft Outlook 365/2019/2016 for Mac Default Font Changer</b>
 
 Purpose: Sets the default compose and reply/forward fonts in Outlook 365/2019/2016 for Mac</br>
-Example: `OutlookFontPoke 'Helvetica' '11.0pt' 'gray'`
+Usage: 
+
+1. Add this script into Jamf Pro
+2. Create a new policy including the script.
+3. Set Parameter 4 to your desired font, e.g. 'Helvetica' (Without quotes)
+3. Set Parameter 5 to your desired font size, e.g. '1.0pt' (Without quotes)
+3. Set Parameter 4 to your desired font color, e.g. 'black' (Without quotes)
+
 
 NOTE: Outlook must be relaunched to pick up changes made by OutlookFontPoke.
 
