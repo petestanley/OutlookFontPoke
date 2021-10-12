@@ -15,4 +15,4 @@ Usage:
 
 NOTE: Outlook must be relaunched to pick up changes made by OutlookFontPoke.
 
-Works with Outlook 2016 for Mac 16.9 and later.
+Works with Outlook 2016, 2019 & Office 365 (As of writing in 2021).
